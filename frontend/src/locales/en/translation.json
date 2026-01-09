@@ -1,0 +1,141 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "add": "Add",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "viewAll": "View All",
+    "learnMore": "Learn More"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "cart": "Cart",
+    "wishlist": "Wishlist",
+    "orders": "My Orders",
+    "profile": "Profile",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "auth": {
+    "loginTitle": "Welcome Back",
+    "signupTitle": "Create Account",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "fullName": "Full Name",
+    "phone": "Phone Number",
+    "loginButton": "Login",
+    "signupButton": "Sign Up",
+    "googleLogin": "Continue with Google",
+    "forgotPassword": "Forgot Password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "selectRole": "Select Role"
+  },
+  "home": {
+    "hero": {
+      "badge": "Authentic Traditional Wear",
+      "titlePart1": "Tenz",
+      "titlePart2": "The Fashion World",
+      "subtitlePart1": "Discover exquisite",
+      "subtitleHighlight1": "Paithani Sarees",
+      "subtitlePart2": "and elegant",
+      "subtitleHighlight2": "Designer Kurtis",
+      "shopSarees": "Shop Sarees",
+      "exploreKurtis": "Explore Kurtis",
+      "stats": {
+        "authentic": "Authentic",
+        "happyCustomers": "Happy Customers",
+        "support": "Support"
+      }
+    },
+    "featured": "Featured Products",
+    "categories": "Shop by Category",
+    "deals": "Flash Deals"
+  },
+  "product": {
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "addToWishlist": "Add to Wishlist",
+    "removeFromWishlist": "Remove from Wishlist",
+    "size": "Size",
+    "color": "Color",
+    "quantity": "Quantity",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "reviews": "Reviews",
+    "writeReview": "Write a Review",
+    "sizeChart": "Size Chart",
+    "description": "Description",
+    "specifications": "Specifications",
+    "relatedProducts": "Related Products"
+  },
+  "cart": {
+    "title": "Shopping Cart",
+    "empty": "Your cart is empty",
+    "subtotal": "Subtotal",
+    "discount": "Discount",
+    "delivery": "Delivery Charges",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping",
+    "applyCoupon": "Apply Coupon",
+    "couponPlaceholder": "Enter coupon code"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "shippingAddress": "Shipping Address",
+    "paymentMethod": "Payment Method",
+    "orderSummary": "Order Summary",
+    "placeOrder": "Place Order",
+    "cod": "Cash on Delivery",
+    "online": "Pay Online"
+  },
+  "orders": {
+    "title": "My Orders",
+    "orderNumber": "Order #",
+    "status": "Status",
+    "date": "Date",
+    "total": "Total",
+    "viewDetails": "View Details",
+    "trackOrder": "Track Order",
+    "cancelOrder": "Cancel Order",
+    "returnOrder": "Return Order",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "cancelled": "Cancelled"
+  },
+  "profile": {
+    "title": "My Profile",
+    "editProfile": "Edit Profile",
+    "addresses": "Saved Addresses",
+    "addAddress": "Add New Address",
+    "loyaltyPoints": "Loyalty Points",
+    "referralCode": "Referral Code",
+    "language": "Language Preference"
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "products": "Products",
+    "orders": "Orders",
+    "customers": "Customers",
+    "categories": "Categories",
+    "coupons": "Coupons",
+    "flashSales": "Flash Sales",
+    "reviews": "Reviews",
+    "deliveryPartners": "Delivery Partners",
+    "analytics": "Analytics"
+  }
+}

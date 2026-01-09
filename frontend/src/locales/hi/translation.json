@@ -1,0 +1,141 @@
+{
+  "common": {
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "add": "जोड़ें",
+    "search": "खोजें",
+    "filter": "फ़िल्टर",
+    "sort": "क्रमबद्ध करें",
+    "viewAll": "सभी देखें",
+    "learnMore": "और जानें"
+  },
+  "nav": {
+    "home": "होम",
+    "products": "उत्पाद",
+    "categories": "श्रेणियाँ",
+    "cart": "कार्ट",
+    "wishlist": "विशलिस्ट",
+    "orders": "मेरे ऑर्डर",
+    "profile": "प्रोफ़ाइल",
+    "login": "लॉगिन",
+    "signup": "साइन अप",
+    "logout": "लॉगआउट"
+  },
+  "auth": {
+    "loginTitle": "वापस स्वागत है",
+    "signupTitle": "खाता बनाएं",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "fullName": "पूरा नाम",
+    "phone": "फ़ोन नंबर",
+    "loginButton": "लॉगिन",
+    "signupButton": "साइन अप",
+    "googleLogin": "Google के साथ जारी रखें",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "noAccount": "खाता नहीं है?",
+    "hasAccount": "पहले से खाता है?",
+    "selectRole": "भूमिका चुनें"
+  },
+  "home": {
+    "hero": {
+      "badge": "प्रामाणिक पारंपरिक परिधान",
+      "titlePart1": "Tenz",
+      "titlePart2": "द फैशन वर्ल्ड",
+      "subtitlePart1": "खोजें बेहतरीन",
+      "subtitleHighlight1": "पैठणी साड़ियां",
+      "subtitlePart2": "और शानदार",
+      "subtitleHighlight2": "डिजाइनर कुर्तियां",
+      "shopSarees": "साड़ियां खरीदें",
+      "exploreKurtis": "कुर्तियां देखें",
+      "stats": {
+        "authentic": "प्रामाणिक",
+        "happyCustomers": "खुश ग्राहक",
+        "support": "सहायता"
+      }
+    },
+    "featured": "फीचर्ड उत्पाद",
+    "categories": "श्रेणी के अनुसार खरीदें",
+    "deals": "फ्लैश डील्स"
+  },
+  "product": {
+    "addToCart": "कार्ट में जोड़ें",
+    "buyNow": "अभी खरीदें",
+    "addToWishlist": "विशलिस्ट में जोड़ें",
+    "removeFromWishlist": "विशलिस्ट से हटाएं",
+    "size": "साइज़",
+    "color": "रंग",
+    "quantity": "मात्रा",
+    "inStock": "स्टॉक में",
+    "outOfStock": "स्टॉक में नहीं",
+    "reviews": "समीक्षाएं",
+    "writeReview": "समीक्षा लिखें",
+    "sizeChart": "साइज़ चार्ट",
+    "description": "विवरण",
+    "specifications": "विशेषताएं",
+    "relatedProducts": "संबंधित उत्पाद"
+  },
+  "cart": {
+    "title": "शॉपिंग कार्ट",
+    "empty": "आपका कार्ट खाली है",
+    "subtotal": "उपयोग",
+    "discount": "छूट",
+    "delivery": "डिलीवरी शुल्क",
+    "total": "कुल",
+    "checkout": "चेकआउट करें",
+    "continueShopping": "खरीदारी जारी रखें",
+    "applyCoupon": "कूपन लागू करें",
+    "couponPlaceholder": "कूपन कोड दर्ज करें"
+  },
+  "checkout": {
+    "title": "चेकआउट",
+    "shippingAddress": "शिपिंग पता",
+    "paymentMethod": "भुगतान विधि",
+    "orderSummary": "ऑर्डर सारांश",
+    "placeOrder": "ऑर्डर करें",
+    "cod": "कैश ऑन डिलीवरी",
+    "online": "ऑनलाइन भुगतान"
+  },
+  "orders": {
+    "title": "मेरे ऑर्डर",
+    "orderNumber": "ऑर्डर #",
+    "status": "स्थिति",
+    "date": "तारीख",
+    "total": "कुल",
+    "viewDetails": "विवरण देखें",
+    "trackOrder": "ऑर्डर ट्रैक करें",
+    "cancelOrder": "ऑर्डर रद्द करें",
+    "returnOrder": "ऑर्डर वापस करें",
+    "pending": "लंबित",
+    "confirmed": "पुष्टि की गई",
+    "shipped": "भेज दिया गया",
+    "delivered": "डिलीवर किया गया",
+    "cancelled": "रद्द किया गया"
+  },
+  "profile": {
+    "title": "मेरी प्रोफ़ाइल",
+    "editProfile": "प्रोफ़ाइल संपादित करें",
+    "addresses": "सहेजे गए पते",
+    "addAddress": "नया पता जोड़ें",
+    "loyaltyPoints": "लॉयल्टी पॉइंट्स",
+    "referralCode": "रेफरल कोड",
+    "language": "भाषा प्राथमिकता"
+  },
+  "admin": {
+    "dashboard": "डैशबोर्ड",
+    "products": "उत्पाद",
+    "orders": "ऑर्डर",
+    "customers": "ग्राहक",
+    "categories": "श्रेणियाँ",
+    "coupons": "कूपन",
+    "flashSales": "फ्लैश सेल्स",
+    "reviews": "समीक्षाएं",
+    "deliveryPartners": "डिलीवरी पार्टनर्स",
+    "analytics": "विश्लेषण"
+  }
+}
