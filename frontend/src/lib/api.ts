@@ -73,7 +73,7 @@ export const authAPI = {
   login: (email: string, password: string) =>
     api.post('/auth/login/', { email, password }),
   
-  register: (data: { email: string; password: string; full_name: string }) =>
+  register: (data: { email: string; password: string; password2: string; full_name: string }) =>
     api.post('/auth/register/', data),
   
   logout: () => {

@@ -12,6 +12,7 @@ interface LoginCredentials {
 interface SignupData {
   email: string
   password: string
+  confirmPassword: string
   fullName: string
   phone?: string
 }
@@ -38,8 +39,8 @@ export function useSignup() {
   const { register } = useAuthStore()
 
   return useMutation({
-    mutationFn: async ({ email, password, fullName }: SignupData) => {
-      await register(email, password, fullName)
+    mutationFn: async ({ email, password, confirmPassword, fullName }: SignupData) => {
+      await register(email, password, confirmPassword, fullName)
     },
     onSuccess: () => {
       navigate('/')

@@ -51,6 +51,7 @@ export default function SignupForm() {
     signup.mutate({
       email: formData.email,
       password: formData.password,
+      confirmPassword: formData.confirmPassword,
       fullName: formData.fullName,
       phone: formData.phone || undefined,
     })
